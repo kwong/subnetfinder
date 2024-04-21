@@ -1,4 +1,5 @@
-#https://pypi.org/project/subnetfinder/
+# Author: Kangwei Wong (kangwei.wong@ollion.com)
+# Credits to: https://pypi.org/project/subnetfinder/
 
 
 .PHONY: search
