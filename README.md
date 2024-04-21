@@ -22,7 +22,7 @@ source ./venv/bin/activate
 pip install subnetfinder
 ```
 
-4. Create and update text file containing list of in-use ranges and upda
+4. Create and update text file containing list of in-use ranges
 
 ```sh
 # update as necessary
