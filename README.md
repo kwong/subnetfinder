@@ -5,7 +5,9 @@ Simple python script that calculates the largest allocatable RFC 1918 subnet ran
 
 1. (Optional) Create a virtual environment 
 
-`$ python -m venv venv`
+```sh
+$ python -m venv venv
+```
 
 2. (Optional) Activate your virtual environment
 
